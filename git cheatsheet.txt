@@ -1,0 +1,29 @@
+1. git init - Initialize a new Git repository.
+
+2. git clone <repository> - Clone an existing repository from a remote source.
+
+3. git add <file> - Stage changes for the next commit.
+
+4. git commit -m "<message>" - Commit staged changes with a descriptive message.
+
+5. git status - Check the status of changes in the working directory and staging area.
+
+6. git log - View the commit history.
+
+7. git branch - List, create, or delete branches.
+
+8. git checkout <branch> - Switch to a different branch.
+
+9. git merge <branch> - Merge changes from one branch into the current branch.
+
+10. git pull - Fetch and merge changes from a remote repository into the current branch.
+
+11. git push - Upload local commits to a remote repository.
+
+12. git fetch - Download changes from a remote repository without merging.
+
+13. git revert <commit> - Create a new commit that undoes changes from a previous commit.
+
+14. git reset <file> - Unstage a file from the staging area.
+
+15. git rm <file> - Remove a file from the working directory and staging area.
